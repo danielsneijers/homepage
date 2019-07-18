@@ -1,13 +1,11 @@
 const title = document.getElementById('title');
 const cursor = document.getElementById('cursor');
 const titles = [
-  'front-end developer',
+  'product manager',
   'guitar player',
-  'dude',
-  'father',
-  'gamer',
-  'nerd',
-  'nice guy'
+  'Dutch guy in Stockholm',
+  'father of 2',
+  'tech nerd',
 ];
 
 function replaceTitle (node) {
