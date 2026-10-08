@@ -3,7 +3,6 @@ const cursor = document.getElementById('cursor');
 const titles = [
   'product manager',
   'guitar player',
-  'Dutch guy in Stockholm',
   'father of 2',
   'tech nerd',
 ];
